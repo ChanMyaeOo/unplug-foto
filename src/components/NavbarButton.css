@@ -1,0 +1,24 @@
+.submit {
+  background: none;
+  border: 1px solid grey;
+  border-radius: 5px;
+  cursor: pointer;
+  min-height: 35px;
+}
+
+.login {
+  background: none;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  min-height: 35px;
+}
+
+.join {
+  color: #fff;
+  font-weight: 700;
+  background: #3cb46e;
+  border: none;
+  border-radius: 5px;
+  min-height: 35px;
+}
